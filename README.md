@@ -16,5 +16,5 @@
 
   🎓 Graduando em Ciência da Computação na Universidade Federal do ABC
 
-  📜  Aprendiz em desevolvimento web, me aprofundando em HTML5 CSS3 e JS
+  📜  Aprendiz em Python, Análise de dados e Ciência de dados
 
